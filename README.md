@@ -3,7 +3,10 @@
 Sistema de login desarrollado con PHP y Bootstrap.
 
 ## Vista previa
-![Login System](url-de-tu-imagen)
+
+![Login page](https://raw.githubusercontent.com/Javiervg0/LOGIN_SYSTEM/main/example/example_1.png)
+
+![Welcome page](https://raw.githubusercontent.com/Javiervg0/LOGIN_SYSTEM/main/example/example_2.png)
 
 ## Tecnologías
 - PHP
@@ -14,4 +17,3 @@ Sistema de login desarrollado con PHP y Bootstrap.
 1. Clona el repositorio
 2. Importa la base de datos
 3. Configura la conexión en `config.php`
-
