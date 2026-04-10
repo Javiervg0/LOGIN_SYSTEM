@@ -1,0 +1,40 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    max-width: 400px;
+    flex: 1;
+}
+
+h1 {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+h4 {
+    text-align: center;
+    color: #721c24;
+    background-color: #f8d7da;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.main-content {
+    max-width: 400px;
+    flex: 1;
+    padding-bottom: 30px; /* 👈 agrega esto */
+}
